@@ -99,7 +99,7 @@
         /// <returns></returns>
         protected override Config ConfigurationData()
         {
-            return new Config { Key = "JobRunnerCheckTime", Value = "Start starting..." };
+            return new Config { Key = "JobRunnerCheckTime", Value = "Is starting..." };
         }
 
         /// <summary>
@@ -128,7 +128,7 @@
         /// <returns></returns>
         protected override Config ConfigurationData()
         {
-            return new Config { Key = "JobRunnerCheckProducts", Value = "Start starting..." };
+            return new Config { Key = "JobRunnerCheckProducts", Value = "Is starting..." };
         }
     }
 
