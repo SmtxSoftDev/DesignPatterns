@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="TemplateMethod.JobStarter">
-    <Position X="5.25" Y="0.75" Width="1.5" />
+    <Position X="5.25" Y="0.75" Width="2.25" />
     <Compartments>
       <Compartment Name="Nested Types" Collapsed="false" />
     </Compartments>
@@ -14,28 +14,28 @@
     </NestedTypes>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAEAAAAAAAAAEIAAAAAAAAAAAAIASAAA=</HashCode>
-      <FileName>Example2.cs</FileName>
+      <FileName>Example2\Example2.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TemplateMethod.JobRunnerCheckTime">
     <Position X="7.75" Y="5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
-      <FileName>Example2.cs</FileName>
+      <FileName>Example2\Example2.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TemplateMethod.JobRunnerCheckProducts">
     <Position X="2.75" Y="5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAA=</HashCode>
-      <FileName>Example2.cs</FileName>
+      <FileName>Example2\Example2.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TemplateMethod.Example2">
-    <Position X="8.75" Y="0.75" Width="1.5" />
+    <Position X="7.75" Y="0.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
-      <FileName>Example2.cs</FileName>
+      <FileName>Example2\Example2.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
