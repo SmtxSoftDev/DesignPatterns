@@ -1,4 +1,4 @@
-﻿namespace Strategy.Example2
+﻿namespace Strategy
 {
     /// <summary>
     /// S
