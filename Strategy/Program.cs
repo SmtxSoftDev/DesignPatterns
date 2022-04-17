@@ -1,7 +1,4 @@
-﻿using Strategy.Example1;
-using Strategy.Example2;
-
-namespace TemplateMethod
+﻿namespace Strategy
 {
     class Program
     {
